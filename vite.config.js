@@ -7,5 +7,8 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true
+  },
+  preview: {
+    allowedHosts: ['dev-tracker-3.onrender.com']
   }
-}) 
+})
