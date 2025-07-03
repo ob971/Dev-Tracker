@@ -60,7 +60,7 @@ The backend will automatically create the database tables and insert sample data
 
 1. Install frontend dependencies:
 ```bash
-npm install
+npm install && npm run build
 ```
 
 2. Start the development server:
